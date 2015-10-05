@@ -1,0 +1,26 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "A replacement for the expensive console log functions (console.log, console.error, .....)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Granix/logger.git"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "console.log",
+    "console.error",
+    "console.info"
+  ],
+  "author": "a.michael.grant@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Granix/logger/issues"
+  },
+  "homepage": "https://github.com/Granix/logger"
+}
