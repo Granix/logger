@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Granix/logger/issues"
   },
-  "homepage": "https://github.com/Granix/logger"
+  "homepage": "https://github.com/Granix/logger",
+  "dependencies": {
+    "merge": "^1.2.0"
+  }
 }
